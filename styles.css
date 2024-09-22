@@ -162,3 +162,13 @@ a {
     padding: 0 50px;
     background-color: #3882F6;
 }
+
+.footer {
+    background-color: #1F2937;
+    padding: 36px;
+}
+
+.footer p {
+    color: white;
+    text-align: center;
+}
